@@ -22,7 +22,7 @@ Tests for this application are in files Circle.test, Square.test and Triangle.te
 
 ## Video walkthrough
 
-For this project we have created a video walkthrough demonstrating how this project can be used. Click [here]( to view.
+For this project we have created a video walkthrough demonstrating how this project can be used. Click [here](https://drive.google.com/file/d/1izOye6DXB83-sacd2Mv8TyCABgnpgxNh/view) to view.
 
 ***
 ### Contact us
