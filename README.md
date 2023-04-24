@@ -12,7 +12,7 @@ Node.js command-line application that takes in user input to generate a logo and
 * [Video Walkthrough](#video-walkthrough)
 * [Contact Us](#contact-us)
 
-## Insallation
+## Installation
 Install npm, jest and inquirer
 
  ![Project Dependencies](/Images/dependencies.png) 
