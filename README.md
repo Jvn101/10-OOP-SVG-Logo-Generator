@@ -3,6 +3,8 @@
 ## Description
 Node.js command-line application that takes in user input to generate a logo and save it as an SVG
 
+![Logo](/Images/exampleimage.png) 
+
 ## Table of Contents 
 
 * [Installation](#installation)
@@ -12,6 +14,8 @@ Node.js command-line application that takes in user input to generate a logo and
 
 ## Insallation
 Install npm, jest and inquirer
+
+ ![Project Dependencies](/Images/dependencies.png) 
 
 ## Tests
 Tests for this application are in files Circle.test, Square.test and Triangle.test. To run tests open the integrated terminal and type npm run test.
